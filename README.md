@@ -59,3 +59,4 @@ maven central repository以外のリポジトリにある依存関係を追加
 
 - 実際にWeb上にあるリポジトリの中も確認してみる
     - http://maven.seasar.org/maven2/org/seasar/container/s2-framework/2.4.46
+    - リポジトリ内のpomとかも確認
