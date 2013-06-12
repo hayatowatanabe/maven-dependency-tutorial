@@ -74,13 +74,12 @@ artifactIdを変更してインストールし、ローカルリポジトリを�
 
 1. simple1をコピー
 
-  cp -r sample1/ sample2
+    ``cp -r sample1/ sample2``
 
-2. sample2:artifactIdを変更してインストール
-
+2. sample2: artifactIdを変更してインストール
     - artifactId: sample2
 
-3. sample1:依存関係を整理
+3. sample1: 依存関係を整理
 
     1. 今までの依存関係削除
     2. sample2を依存関係に追加
