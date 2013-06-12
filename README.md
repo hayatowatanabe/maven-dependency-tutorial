@@ -6,14 +6,14 @@ Mavenの依存関係をいろいろいじくる
 
 ## もくじ
 
-- https://github.com/koizuss/maven-dependency-tutorial/tree/ph0
-- https://github.com/koizuss/maven-dependency-tutorial/tree/ph1
-- https://github.com/koizuss/maven-dependency-tutorial/tree/ph2
-- https://github.com/koizuss/maven-dependency-tutorial/tree/ph3
-- https://github.com/koizuss/maven-dependency-tutorial/tree/ph4
-- https://github.com/koizuss/maven-dependency-tutorial/tree/ph5
-- https://github.com/koizuss/maven-dependency-tutorial/tree/ph6
-- https://github.com/koizuss/maven-dependency-tutorial/tree/ph7
+- [ph0. プロジェクト作成](https://github.com/koizuss/maven-dependency-tutorial/tree/ph0)
+- [ph1. 依存関係の解析](https://github.com/koizuss/maven-dependency-tutorial/tree/ph1)
+- [ph2. 依存関係の追加](https://github.com/koizuss/maven-dependency-tutorial/tree/ph2)
+- [ph3. ローカルリポジトリへインストール](https://github.com/koizuss/maven-dependency-tutorial/tree/ph3)
+- [ph4. ローカルリポジトリを使って依存関係を解決](https://github.com/koizuss/maven-dependency-tutorial/tree/ph4)
+- [ph5. 依存関係のスコープ](https://github.com/koizuss/maven-dependency-tutorial/tree/ph5)
+- [ph6. 依存関係の重複](https://github.com/koizuss/maven-dependency-tutorial/tree/ph6)
+- [ph7. 依存関係の排除](https://github.com/koizuss/maven-dependency-tutorial/tree/ph7)
 
 ## ph0. プロジェクト作成
 
