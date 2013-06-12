@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>tutorial.maven.dependency</groupId>
-  <artifactId>sample1</artifactId>
+  <artifactId>sample2</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>sample1</name>
+  <name>sample2</name>
   <url>http://maven.apache.org</url>
 
   <properties>
