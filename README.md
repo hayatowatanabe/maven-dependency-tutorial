@@ -25,3 +25,37 @@ Mavenの依存関係をいろいろいじくる
     - maven central repository: http://repo.maven.apache.org/maven2/
 - 実際にWeb上にあるリポジトリの中も確認してみる
     - http://repo.maven.apache.org/maven2/junit/junit/3.8.1/
+
+## ph2. 依存関係の追加
+
+maven central repository以外のリポジトリにある依存関係を追加
+
+- *s2-framework* を追加してみる
+
+    - リポジトリ
+
+        ```xml
+          <repositories>
+            <repository>
+              <id>maven.seasar.org</id>
+              <name>The Seasar Foundation Maven2 Repository</name>
+              <url>http://maven.seasar.org/maven2</url>
+            </repository>
+          </repositories>
+        ```
+    - 依存関係
+
+        ```xml
+          <dependencies>
+            ...
+            <dependency>
+              <groupId>org.seasar.container</groupId>
+              <artifactId>s2-framework</artifactId>
+              <version>2.4.46</version>
+              <scope>compile</scope>
+            </dependency>
+          </dependencies>
+        ```
+
+- 実際にWeb上にあるリポジトリの中も確認してみる
+    - http://maven.seasar.org/maven2/org/seasar/container/s2-framework/2.4.46
