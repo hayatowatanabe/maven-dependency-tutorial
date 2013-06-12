@@ -21,7 +21,7 @@ Mavenの依存関係をいろいろいじくる
 
     mvn archetype:generate
 
-- groupId: net.jp.kronos.hq
+- groupId: tutorial.maven.dependency
 - artifactId: maven-dependency-tutorial
 - version: 1.0-SNAPSHOT
 
